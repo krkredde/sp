@@ -8,6 +8,8 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
+using System.Text.Text;
+using System.sbyte;
 
 namespace ik.PowerShell
 {
