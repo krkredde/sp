@@ -10,6 +10,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Text.Text;
 using System.sbyte;
+using System.s11byte;
 
 namespace ik.PowerShell
 {
